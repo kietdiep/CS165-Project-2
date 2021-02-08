@@ -1,0 +1,8 @@
+﻿This difference file has been created by IDA
+
+authenticate_yourself.exe
+00000000000004D9: 75 EB
+00000000000004DA: 1A 50
+00000000000004FC: 75 EB
+00000000000004FD: 5F 2D
+000000000000052D: 75 90
